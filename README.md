@@ -1,7 +1,7 @@
 ### Hi there 👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Easonrust)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Easonrust&exclude_repo=Image_Denoising_Zoo,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Easonrust's github stats](https://github-readme-stats.vercel.app/api?username=Easonrust&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Easonrust's github stats](https://github-readme-stats.vercel.app/api?username=Easonrust&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
