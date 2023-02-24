@@ -14,7 +14,7 @@
 
 - 🌟 In my free time, I enjoy working on personal projects and exploring new technologies.
 
-- 📫 Feel free to reach out to me at [your email address] or connect with me on [LinkedIn](https://www.linkedin.com/in/le-yang-ucsd/).
+- 📫 Feel free to reach out to me at [ley004@ucsd.edu] or connect with me on [LinkedIn](https://www.linkedin.com/in/le-yang-sd/).
 
 
 <!-- [![Easonrust's github stats](https://github-readme-stats.vercel.app/api?username=Easonrust&count_private=true&hide=contribs&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) -->
