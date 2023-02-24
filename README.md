@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Le Yang, a Computer Science graduate student at University of California, San Diego.
+## Hi there 👋 I'm Le Yang, a Computer Science graduate student at UC San Diego.
 
 - 🎓 I'm pursuing a Master's Degree in Computer Science with a focus on Distributed Systems and Artificial Intelligence.
 
