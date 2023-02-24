@@ -17,5 +17,5 @@
 - 📫 Feel free to reach out to me at [your email address] or connect with me on [LinkedIn](https://www.linkedin.com/in/le-yang-ucsd/).
 
 
-[![Easonrust's github stats](https://github-readme-stats.vercel.app/api?username=Easonrust&count_private=true&hide=contribs&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Easonrust's github stats](https://github-readme-stats.vercel.app/api?username=Easonrust&count_private=true&hide=contribs&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
